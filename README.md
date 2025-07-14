@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mithil Bhatt</h1>
-<h3 align="center">🚀 Full-Stack Developer | MCA Student | Python • Django • Laravel • React • C</h3>
+<h3 align="center">🚀 Developer | MCA Student | Python • Django • Laravel • React • C</h3>
 
 <p align="center">
   <a href="mailto:mithildbhatt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
@@ -14,7 +14,7 @@
 ---
 
 ### 🦇 Who Am I?
-- 🎓 MCA student at GLS University (8.2 SGPA)  
+- 🎓 MCA student at GLS University
 - 🧠 Code like Tony Stark: prepared for anything, obsessed with precision  
 - 🛠️ Tech stack includes Python, Laravel, Django, OpenCV, MongoDB, and more  
 - 🔥 Passionate about building real-time systems and automation tools  
