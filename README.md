@@ -57,8 +57,8 @@
 ### 🕶️ Connect With Me
 📫 Email: mithildbhatt@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/bhatt-mithil-a00152169/)  
-🦇 Portfolio: Coming Soon
+
 
 ---
 
-> “It's not who I am underneath, but what I do that defines me.” – Batman  
+> “No amount of money ever bought a second of time” – Tony Stark
