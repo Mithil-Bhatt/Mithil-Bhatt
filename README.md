@@ -15,7 +15,7 @@
 
 ### 🦇 Who Am I?
 - 🎓 MCA student at GLS University (8.2 SGPA)  
-- 🧠 Code like Batman: prepared for anything, obsessed with precision  
+- 🧠 Code like Tony Stark: prepared for anything, obsessed with precision  
 - 🛠️ Tech stack includes Python, Laravel, Django, OpenCV, MongoDB, and more  
 - 🔥 Passionate about building real-time systems and automation tools  
 - 💬 Ask me about full-stack apps, OpenCV gesture control, or hacking your productivity
