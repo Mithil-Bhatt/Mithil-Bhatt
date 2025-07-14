@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/UmvX9Ad.jpeg" width="800" alt="Batman Tech Banner"/>
+  <img src="1119768.jpg" width="800" alt="Batman Tech Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mithil Bhatt</h1>
