@@ -74,5 +74,5 @@
 
 <p align="center">
 
-  <img src="MImN.gif" width="250"/>
+  <img src="tony.jpeg" width="250"/>
 </p>
