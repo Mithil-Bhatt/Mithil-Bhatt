@@ -14,13 +14,23 @@
 ---
 
 ### 🦇 Who Am I?
-- 🎓 MCA student at GLS University
+<table>
+<tr>
+<td>
+
+- 🎓 MCA student at GLS University  
 - 🧠 Code like Tony Stark: prepared for anything, obsessed with precision  
 - 🛠️ Tech stack includes Python, Laravel, Django, OpenCV, MongoDB, and more  
 - 🔥 Passionate about building real-time systems and automation tools  
-- 💬 Ask me about full-stack apps, OpenCV gesture control, or hacking your productivity
+- 💬 Ask me about full-stack apps, OpenCV gesture control, or hacking your productivity  
 
----
+</td>
+<td align="center" width="50%">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+</td>
+</tr>
+</table>
+
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
