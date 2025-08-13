@@ -79,5 +79,5 @@ No amount of money ever bought a second of time
 ---
 <p align="center">
 
-  <img src="w.jpg" width="400" />
+  <img src="m.jpg" width="400" />
 </p>
