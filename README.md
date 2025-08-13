@@ -71,7 +71,7 @@
 
 ---
 <div align="center">
-No amount of money ever bought a second of time – Tony Stark
+No amount of money ever bought a second of time 
 
 </div>
 
