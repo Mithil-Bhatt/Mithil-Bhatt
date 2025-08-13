@@ -56,7 +56,7 @@
 - 🎮 **Online Game Store (Django/PHP)** – A complete online game shopping experience with payment integration.
 - 🧾 **Student Management System (C)** – Terminal-based system to handle student records efficiently.
 
----
+
 
 
 
@@ -73,6 +73,8 @@
 
 </div>
 
+
+---
 
 <p align="center">
 
