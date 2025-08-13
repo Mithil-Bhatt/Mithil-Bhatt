@@ -14,9 +14,10 @@
 ---
 
 ### 🦇 Who Am I?
-<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<div>
+<table>
+<tr>
+<td style="vertical-align: middle;">
 
 - 🎓 MCA student at GLS University  
 - 🧠 Code like Tony Stark: prepared for anything, obsessed with precision  
@@ -24,11 +25,15 @@
 - 🔥 Passionate about building real-time systems and automation tools  
 - 💬 Ask me about full-stack apps, OpenCV gesture control, or hacking your productivity  
 
-</div>
+</td>
+<td style="vertical-align: middle; text-align: center;">
 
-<img src="iron.gif" width="250" style="margin-left: 20px;">
+<img src="iron.gif" width="250">
 
-</div>
+</td>
+</tr>
+</table>
+
 
 
 
