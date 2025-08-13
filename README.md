@@ -14,7 +14,7 @@
 ---
 
 ### 🦇 Who Am I?
-<table>
+<table border="0">
 <tr>
 <td>
 
@@ -68,6 +68,6 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRnMWtjeDJhb3cyeDl3NnB6YXVxMmJ1bXY1NW9tcWdvbHFtaTQzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHxTQkcjmHUTC/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/RmWqblmiLJdD3eJ1Qn/giphy.gif" width="250"/>
+
+  <img src="MImN.gif" width="250"/>
 </p>
