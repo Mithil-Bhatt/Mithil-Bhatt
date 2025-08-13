@@ -76,8 +76,3 @@ No amount of money ever bought a second of time
 </div>
 
 
----
-<p align="center">
-
-  <img src="m.jpg" width="400" />
-</p>
