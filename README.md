@@ -58,11 +58,6 @@
 
 ---
 
-## 💭 Random Dev Quote
-<div align="center">
-> “No amount of money ever bought a second of time” – Tony Stark
-
-</div>
 
 
 ---
@@ -73,8 +68,10 @@
 
 
 ---
-
+<div align="center">
 > “No amount of money ever bought a second of time” – Tony Stark
+
+</div>
 
 
 <p align="center">
