@@ -11,7 +11,9 @@
   <a href="https://www.linkedin.com/in/bhatt-mithil-a00152169/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🦇 Who Am I?
 
