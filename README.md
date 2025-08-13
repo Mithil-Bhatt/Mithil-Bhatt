@@ -74,5 +74,5 @@
 
 <p align="center">
 
-  <img src="tony.jpg" width="250"/>
+  <img src="tony.jpg" width="800"/>
 </p>
