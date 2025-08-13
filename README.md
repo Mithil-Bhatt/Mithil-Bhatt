@@ -1,8 +1,12 @@
+
 <p align="center">
   <img src="GeLK.gif" width="800" alt="Batman Tech Banner"/>
 </p>
 
+
+
 <h1 align="center">Hi 👋, I'm Mithil Bhatt</h1>
+
 <h3 align="center">🚀 Developer | MCA Student | Python • Django • Laravel • React • C</h3>
 
 <p align="center">
@@ -11,9 +15,7 @@
   <a href="https://www.linkedin.com/in/bhatt-mithil-a00152169/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+---
 
 ### 🦇 Who Am I?
 
@@ -61,9 +63,7 @@
 
 
 
-
 ---
-
 ### 🕶️ Connect With Me
 📫 Email: mithildbhatt@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/bhatt-mithil-a00152169/)  
@@ -77,7 +77,6 @@ No amount of money ever bought a second of time – Tony Stark
 
 
 ---
-
 <p align="center">
 
   <img src="tony.jpg" width="800"/>
