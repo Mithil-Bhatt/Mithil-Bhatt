@@ -43,14 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithil-Bhatt&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithil-Bhatt&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithil-Bhatt&layout=compact&theme=tokyonight"/>
-</p>
+
 
 ---
 
@@ -62,3 +55,9 @@
 ---
 
 > “No amount of money ever bought a second of time” – Tony Stark
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/RmWqblmiLJdD3eJ1Qn/giphy.gif" width="250"/>
+</p>
